@@ -18,10 +18,31 @@
                 "size":667122
             }
         ],
-        "hide": [
+        "update":
+        [
+            {
+                "id":"ru.mail.im.theme.mail.ru.leather",
+                "name":"Кожа",
+                "icon":"http://s3.push.mail.ru/st/agent/android/leather_icon.png",
+                "previews":["http://s3.push.mail.ru/st/agent/android/leather_icon_no_corner.png"],
+                "last_modify":"21.12.2012 00:47:40 +0400",
+                "theme_version":"3",
+                "url":"market://details?id=ru.mail.im.theme.mail.ru.leather",
+                "free":true,
+                "author":"Mail.Ru",
+                "type":"ui",
+                "format":1,
+                "size":667122
+            }
+        ],
+        "hide":
+        [
             {"id":"ru.mail.im.theme.mail.ru.tst"},
             {"id":"ru.mail.im.theme.mail.ru.cats"},
-            {"id":"pink"},
+            {"id":"pink"}
+        ]
+        "unhide" :
+        [
             {"id":"night"}
         ]
     }
