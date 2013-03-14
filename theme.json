@@ -20,7 +20,9 @@
         ],
         "hide": [
             {"id":"pink"},
-            {"id":"ru.mail.im.theme.mail.ru.carbon"}
+            {"id":"ru.mail.im.theme.mail.ru.carbon"},
+            {"id":"ru.mail.im.theme.mail.ru.leather"},
+            {"id":"wood"}
         ]
     }
 }
