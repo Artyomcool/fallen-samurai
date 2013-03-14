@@ -1,6 +1,8 @@
 {
-        "revision":280,
-        "themes":[
+    "themes":
+    {
+        "add":
+        [
             {
                 "id":"ru.mail.im.theme.mail.ru.tst",
                 "name":"Test",
@@ -16,5 +18,7 @@
                 "format":1,
                 "size":667122
             }
-        ]
+        ],
+        "hide": ["pink", "ru.mail.im.theme.mail.ru.carbon"]
+    }
 }
