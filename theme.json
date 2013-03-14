@@ -1,0 +1,20 @@
+{
+        "revision":280,
+        "themes":[
+            {
+                "id":"ru.mail.im.theme.mail.ru.tst",
+                "name":"Test",
+                "icon":"http://s3.push.mail.ru/st/agent/android/leather_icon.png",
+                "previews":["http://s3.push.mail.ru/st/agent/android/leather_icon_no_corner.png"],
+                "last_modify":"21.12.2012 00:47:40 +0400",
+                "theme_version":"3",
+                "url":"market://details?id=ru.mail.im.theme.mail.ru.leather",
+                "free":true,
+                "status":"active",
+                "author":"Mail.Ru",
+                "type":"ui",
+                "format":1,
+                "size":667122
+            }
+        ]
+}
