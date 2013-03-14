@@ -18,6 +18,9 @@
                 "size":667122
             }
         ],
-        "hide": ["pink", "ru.mail.im.theme.mail.ru.carbon"]
+        "hide": [
+            {"id":"pink"},
+            {"id":"ru.mail.im.theme.mail.ru.carbon"}
+        ]
     }
 }
