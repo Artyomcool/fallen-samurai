@@ -21,7 +21,8 @@
         "hide": [
             {"id":"ru.mail.im.theme.mail.ru.tst"},
             {"id":"ru.mail.im.theme.mail.ru.cats"},
-            {"id":"pink"}
+            {"id":"pink"},
+            {"id":"night"}
         ]
     }
 }
