@@ -52,12 +52,12 @@
         "hide":
         [
             {"id":"ru.mail.im.theme.mail.ru.tst"},
-            {"id":"ru.mail.im.theme.mail.ru.carbon"}
+            {"id":"ru.mail.im.theme.mail.ru.carbon"},
+            {"id":"pink"}
         ],
         "unhide" :
         [
-            {"id":"night"},
-            {"id":"pink"}
+            {"id":"night"}
         ]
     },
     "notifications":
