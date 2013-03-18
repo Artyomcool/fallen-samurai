@@ -48,7 +48,7 @@
                 "type":"ui",
                 "format":1,
                 "size":667122,
-                "notify":"def"
+                "notify":"loud"
             },
             {
                 "id":"ru.mail.im.theme.mail.ru.carbon",
