@@ -68,7 +68,7 @@
         ],
         "hide":
         [
-            {"id":"ru.mail.im.theme.mail.ru.tst"}
+            {"id":"ru.mail.im.theme.mail.ru.tst"},
             {"id":"pink"}
         ],
         "unhide" :
