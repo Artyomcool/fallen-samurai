@@ -32,7 +32,8 @@
                 "author":"Mail.Ru",
                 "type":"ui",
                 "format":1,
-                "size":667122
+                "size":667122,
+                "notify":"quite"
             },
             {
                 "id":"ru.mail.im.theme.mail.ru.iloveyou",
@@ -46,18 +47,34 @@
                 "author":"Mail.Ru",
                 "type":"ui",
                 "format":1,
-                "size":667122
+                "size":667122,
+                "notify":"def"
+            },
+            {
+                "id":"ru.mail.im.theme.mail.ru.carbon",
+                "name":"Карбон",
+                "icon":"http://s3.push.mail.ru/st/agent/android/carbon_icon.png",
+                "previews":["http://s3.push.mail.ru/st/agent/android/carbon_icon_no_corner.png"],
+                "last_modify":"15.03.2012 00:47:40 +0400",
+                "theme_version":"3",
+                "url":"market://details?id=ru.mail.im.theme.mail.ru.iloveyou",
+                "free":true,
+                "author":"Mail.Ru",
+                "type":"ui",
+                "format":1,
+                "size":667122,
+                "notify":"loud"
             }
         ],
         "hide":
         [
-            {"id":"ru.mail.im.theme.mail.ru.tst"},
-            {"id":"ru.mail.im.theme.mail.ru.carbon"},
+            {"id":"ru.mail.im.theme.mail.ru.tst"}
             {"id":"pink"}
         ],
         "unhide" :
         [
-            {"id":"night"}
+            {"id":"night"},
+            {"id":"ru.mail.im.theme.mail.ru.carbon"},
         ]
     },
     "notifications":
