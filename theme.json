@@ -55,7 +55,7 @@
         [
             {
                 "id":"ru.mail.im.theme.mail.ru.sakura",
-                "old":"ru.mail.im.theme.mail.ru.tst",
+                "old":["ru.mail.im.theme.mail.ru.tst"],
                 "name":"Сакура",
                 "icon":"http://s3.push.mail.ru/st/agent/android/sakura_icon.png",
                 "previews":["http://s3.push.mail.ru/st/agent/android/sakura_icon_no_corner.png"],
