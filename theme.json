@@ -15,7 +15,8 @@
                 "author":"Mail.Ru",
                 "type":"ui",
                 "format":1,
-                "size":667122
+                "size":667122,
+                "notify":"def"
             }
         ],
         "update":
