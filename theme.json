@@ -52,7 +52,7 @@
                 "promo":{
                     "text":"Promo text",
                     "title":"Promo title",
-                    "type":"vnd.android-dir/mms-sms"",
+                    "type":"vnd.android-dir/mms-sms",
                     "action":"android.intent.action.VIEW",
                     "extra":{"sms_body":"Some SMS text"}
                 }
