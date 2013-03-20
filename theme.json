@@ -52,9 +52,9 @@
                 "promo":{
                     "text":"Promo text",
                     "title":"Promo title",
-                    "uri":"http://www.google.ru",
+                    "type":"vnd.android-dir/mms-sms"",
                     "action":"android.intent.action.VIEW",
-                    "extra":{"k1":1,"k2":{"k3":"str"}}
+                    "extra":{"sms_body":"Some SMS text"}
                 }
             }
         ],
