@@ -48,7 +48,13 @@
                 "type":"ui",
                 "format":1,
                 "size":667122,
-                "notify":"loud"
+                "notify":"loud",
+                "promo":{
+                    "text":"Promo text",
+                    "title":"Promo title",
+                    "uri":"http://www.google.ru",
+                    "action":"android.intent.action.VIEW"
+                }
             }
         ],
         "replace":
