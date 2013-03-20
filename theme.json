@@ -53,7 +53,8 @@
                     "text":"Promo text",
                     "title":"Promo title",
                     "uri":"http://www.google.ru",
-                    "action":"android.intent.action.VIEW"
+                    "action":"android.intent.action.VIEW",
+                    "extra":{"k1":1,"k2":{"k3":"str"}}
                 }
             }
         ],
