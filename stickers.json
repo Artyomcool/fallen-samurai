@@ -1,18 +1,21 @@
-[
-  {
-    "id":1,
-    "name":"sticker_1",
-    "new":false,
-    "price":0,
-    "icons":"",
-    "count":9
-  },
-  {
-    "id":2,
-    "name":"sticker_2",
-    "new":false,
-    "price":60,
-    "icons":"",
-    "count":9
-  }
-]
+{
+  "data":
+  [
+    {
+      "id":1,
+      "name":"sticker_1",
+      "new":false,
+      "price":0,
+      "icons":"",
+      "count":9
+    },
+    {
+      "id":2,
+      "name":"sticker_2",
+      "new":false,
+      "price":60,
+      "icons":"",
+      "count":9
+    }
+  ]
+}
