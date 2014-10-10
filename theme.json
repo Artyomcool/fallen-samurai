@@ -17,7 +17,7 @@
 {"image":"wallpaper_67_iphone.jpg","imageLarge":"wallpaper_67_iphone@2x.jpg", "thumb":"wallpaper_67_thumb.jpg","thumbLarge":"wallpaper_67_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff"},
 {"image":"wallpaper_66_iphone.jpg","imageLarge":"wallpaper_66_iphone@2x.jpg", "thumb":"wallpaper_66_thumb.jpg","thumbLarge":"wallpaper_66_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff"},
 {"image":"wallpaper_65_iphone.jpg","imageLarge":"wallpaper_65_iphone@2x.jpg", "thumb":"wallpaper_65_thumb.jpg","thumbLarge":"wallpaper_65_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff"},
-{"image":"wallpaper_07_iphone.jpg","imageLarge":"wallpaper_07_iphone@2x.jpg", "thumb":"wallpaper_07_thumb.jpg","thumbLarge":"wallpaper_07_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff", "outgoingFillColor":"063b80","outgoingStrokeColor":"063b80"},
+{"image":"wallpaper_07_iphone.jpg","imageLarge":"wallpaper_07_iphone@2x.jpg", "thumb":"wallpaper_07_thumb.jpg","thumbLarge":"wallpaper_07_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff", "incomingTextColor":"063b80", "outgoingFillColor":"063b80","outgoingStrokeColor":"063b80"},
 {"image":"wallpaper_62_iphone.jpg","imageLarge":"wallpaper_62_iphone@2x.jpg", "thumb":"wallpaper_62_thumb.jpg","thumbLarge":"wallpaper_62_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff"},
 {"image":"wallpaper_64_iphone.jpg","imageLarge":"wallpaper_64_iphone@2x.jpg", "thumb":"wallpaper_64_thumb.jpg","thumbLarge":"wallpaper_64_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff"},
 {"image":"wallpaper_63_iphone.jpg","imageLarge":"wallpaper_63_iphone@2x.jpg", "thumb":"wallpaper_63_thumb.jpg","thumbLarge":"wallpaper_63_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff"},
