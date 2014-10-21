@@ -67,5 +67,5 @@
 {"image":"wallpaper_08_iphone.jpg","imageLarge":"wallpaper_08_iphone@2x.jpg", "thumb":"wallpaper_08_thumb.jpg","thumbLarge":"wallpaper_08_thumb@2x.jpg", "textColor":"545454"},
 {"image":"wallpaper_61_iphone.jpg","imageLarge":"wallpaper_61_iphone@2x.jpg", "thumb":"wallpaper_61_thumb.jpg","thumbLarge":"wallpaper_61_thumb@2x.jpg", "textColor":"ffffff"},
 {"image":"wallpaper_04_iphone.jpg","imageLarge":"wallpaper_04_iphone@2x.jpg", "thumb":"wallpaper_04_thumb.jpg","thumbLarge":"wallpaper_04_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff", "shadowColor":"99000000"},
-{"image":"wallpaper_15_iphone.jpg","imageLarge":"wallpaper_15_iphone@2x.jpg", "thumb":"wallpaper_15_thumb.jpg","thumbLarge":"wallpaper_15_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff"}
+{"image":"wallpaper_15_iphone.jpg","imageLarge":"wallpaper_15_iphone@2x.jpg", "thumb":"wallpaper_15_thumb.jpg","thumbLarge":"wallpaper_15_thumb@2x.jpg", "tintColor":"15000000", "textColor":"ffffff", "actionbarTextColor":"ff000000"}
 ],"base_url":"http://c.icq.com/images/wallpapers/"}
